@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hey there!
 
-<!--
-**0x00-sys/0x00-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 About Me
 
-Here are some ideas to get you started:
+- 🎓 22 years old developer from Croatia 🇭🇷
+- 💻 Currently working with HTML, CSS, JS, PHP, LUA, PYTHON, SQL
+- 📚 Learning C++ and C# for that extra programming muscle 💪
+- 🎮 Passionate about gaming, I might be playing or coding for games 🕹️
+- 😴 Usually found in my natural habitat – the land of dreams
+- 🚀 Highly intrigued by automation and the endless possibilities it brings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, JS, PHP, LUA, PYTHON, SQL
+- **Learning:** C++, C#
+- **Interests:** Automation, Game Development
+  
