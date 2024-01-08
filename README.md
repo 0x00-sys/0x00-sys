@@ -14,4 +14,8 @@
 | :---: | :---: | :---: |
 | HTML, CSS, JS, PHP, LUA, PYTHON, SQL | C++, C# | Automation, Game Development |
 
+### 📈 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x00-sys&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
