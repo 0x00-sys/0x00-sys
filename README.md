@@ -1,5 +1,8 @@
+<div align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/463740062933450759)](https://discord.com/users/463740062933450759)
 
+</div>
 ### 🌐 About Me
 
 - 💻 Currently working with HTML, CSS, JS, PHP, LUA, PYTHON, SQL
