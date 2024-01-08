@@ -1,4 +1,4 @@
-# 👋 Hey there!
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:463740062933450759)
 
 ### 🌐 About Me
 
