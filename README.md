@@ -2,7 +2,6 @@
 
 ### 🌐 About Me
 
-- 🎓 22 years old developer from Croatia 🇭🇷
 - 💻 Currently working with HTML, CSS, JS, PHP, LUA, PYTHON, SQL
 - 📚 Learning C++ and C# for that extra programming muscle 💪
 - 🎮 Passionate about gaming, I might be playing or coding for games 🕹️
