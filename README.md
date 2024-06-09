@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/463740062933450759)](https://discord.com/users/463740062933450759)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Zero)](https://wakatime.com/@0x00)
 
 ### 🌐 About Me
 
