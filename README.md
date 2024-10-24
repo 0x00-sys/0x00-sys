@@ -11,9 +11,4 @@
 | **Languages** | **Learning** | **Interests** |
 | :---: | :---: | :---: |
 | HTML, CSS, JS, PHP, LUA, PYTHON, SQL | C++, C# | Automation, Game Development |
-
-### 📈 GitHub Stats
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Zero)](https://wakatime.com/@0x00)
-
 </div>
