@@ -4,7 +4,7 @@
 
 | 💻 Currently working with | 📚 Learning | 🎮 Passionate about | 😴 Usually found in | 🚀 Highly intrigued by |
 | :---: | :---: | :---: | :---: | :---: |
-| HTML, CSS, JS, PHP, LUA, PYTHON, SQL | PHP | Gaming, Coding for games | The land of dreams | Automation, Endless possibilities |
+| HTML, CSS, JS, PHP, LUA, PYTHON, SQL | PHP | Gaming, Learning | The land of dreams | Automation |
 
 ### 🛠️ Tech Stack
 
