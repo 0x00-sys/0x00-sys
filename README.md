@@ -44,4 +44,14 @@
   <br/><br/><br/>
 </div>
 
+<hr/>
+
+<div align="center">
+  <h2>GitHub Streak</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://streak-stats.demolab.com?user=0x00-sys&theme=tokyonight-duo&hide_border=true" />
+  
+  <br/><br/><br/>
+</div>
+
 <br/><br/>
