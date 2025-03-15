@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a resume builder**
  
- 🌱 I’m currently learning **NextJS, MongoDB, AWS**
+ 🌱 I’m currently learning **NextJS, MongoDB, AWS, Docker**
 
  </div>
  
