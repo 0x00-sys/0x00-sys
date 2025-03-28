@@ -45,11 +45,11 @@
 </div>
 
 <hr/>
+ 
+ <h2 align="center">⚡ Stats ⚡</h2>
+ <br>
+ <div align=center>
+   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0x00-sys&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+   <br/>
+ </div>
 
-<div align="center">
-  <h2>GitHub Streak</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://streak-stats.demolab.com?user=0x00-sys&theme=tokyonight-duo&hide_border=true" />
-  
-  <br/><br/><br/>
-</div>
