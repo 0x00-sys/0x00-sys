@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a resume builder**
  
- 🌱 I’m currently learning **C#, .NET, AWS**
+ 🌱 I’m currently learning ML, AI
 
  </div>
  
