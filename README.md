@@ -1,54 +1,30 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">I make Discord support not suck, with a lot of AI.</h1>
+
+<p align="center">
+  Building <a href="https://ticketcord.net">ticketcord.net</a> from Zagreb, Croatia.
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="50" alt="eslint logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="50" alt="insomnia logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="50" alt="unix logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=go,ts,nextjs,react,nodejs,python,tailwind,mongodb,redis,docker,bash,git" height="50" alt="stack" />
 </div>
+
+###
+
+### What I'm working on
+
+[**TicketCord**](https://ticketcord.net) is the main thing right now. It's an AI-native Discord support platform running thousands of bots in production. The parts I find interesting:
+
+- **Atlas**, an in-app AI assistant with function calling and ticket-aware context
+- A knowledge base crawler that feeds Qdrant for RAG replies inside the bots
+- A Go bot manager doing lock-free concurrency over `sync.Map`, with an event bus pulling everything together
+- Localized in 12 languages on the web and 19 inside the bots
+
+Outside of that I spend most of my time on AI agents, RAG pipelines, and writing scripts so I never have to do the same thing twice.
 
 ###
 
 <div align="center">
-  <a href="mailto:admin@flowline.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://discord.com/users/463740062933450759" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0x00-sys&count_private=true&theme=dracula&border_radius=10" height="160" alt="streak" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0x00-sys&count_private=true&theme=dracula&border_radius=10" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=0x00-sys&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x00-sys/0x00-sys/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x00-sys/0x00-sys/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0x00-sys/0x00-sys/output/pacman-contribution-graph.svg">
-</picture>
-
-###
