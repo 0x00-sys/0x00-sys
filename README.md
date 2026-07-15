@@ -1,29 +1,35 @@
-<h1 align="center">I make Discord support not suck, with a lot of AI.</h1>
+<h1 align="center">I build support infrastructure for Discord.</h1>
 
 <p align="center">
-  Building <a href="https://ticketcord.net">ticketcord.net</a> from Zagreb, Croatia.
+  Most of my time goes into <a href="https://ticketcord.net">ticketcord.net</a>
 </p>
 
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,nextjs,react,nodejs,python,tailwind,mongodb,redis,docker,bash,git" height="50" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=go,ts,nextjs,react,nodejs,python,swift,tailwind,mongodb,redis,docker,bash,git" height="50" alt="stack" />
 </div>
 
-###
+---
 
-### What I'm working on
+### TicketCord
 
-[**TicketCord**](https://ticketcord.net) is the main thing right now. It's an AI-native Discord support platform running thousands of bots in production. The parts I find interesting:
+Support platform for Discord, tens of thousands of bots in production. TypeScript on the web side, Go where it matters. The parts I actually enjoy working on:
 
-- **Atlas**, an in-app AI assistant with function calling and ticket-aware context
-- A knowledge base crawler that feeds Qdrant for RAG replies inside the bots
-- A Go bot manager doing lock-free concurrency over `sync.Map`, with an event bus pulling everything together
-- Localized in 12 languages on the web and 19 inside the bots
+- Atlas, the in-app assistant. Function calling with ticket context, so it acts on real state instead of guessing
+- Knowledge base crawler feeding Qdrant, RAG replies served directly by the bots
+- The bot manager in Go. Lock-free where possible, `sync.Map` and an event bus doing the heavy lifting. Boring and fast, the way infra should be
+- 12 languages on the web, 19 in the bots. Doing i18n late is a mistake you make once
 
-Outside of that I spend most of my time on AI agents, RAG pipelines, and writing scripts so I never have to do the same thing twice.
+### discordgo fork
 
-###
+I maintain [my own fork](https://github.com/0x00-sys/discordgo) of the Go Discord bindings. Upstream is fine for one bot, less fine for tens of thousands. Mine fixes the bugs I kept hitting and trims the hot paths. It runs TicketCord's entire bot layer, so it gets battle tested daily whether I like it or not.
+
+### Other things
+
+- [Reclaim](https://github.com/0x00-sys/Reclaim), a macOS app that finds the gigabytes eaten by git worktrees, build caches and AI coding agents, and gives them back
+- Agents and RAG pipelines, mostly in service of the above
+- A rule I stick to: anything done twice by hand becomes a script before there's a third time. Laziness with follow-through is most of engineering
+
+---
 
 <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0x00-sys&count_private=true&theme=dracula&border_radius=10" height="160" alt="streak" />
