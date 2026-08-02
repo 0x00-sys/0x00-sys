@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,nextjs,react,nodejs,python,swift,tailwind,mongodb,redis,docker,bash,git" height="50" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=go,ts,nextjs,react,nodejs,python,swift,rust,tailwind,mongodb,redis,docker,bash,git" height="50" alt="stack" />
 </div>
 
 ---
@@ -28,9 +28,3 @@ I maintain [my own fork](https://github.com/0x00-sys/discordgo) of the Go Discor
 - [Reclaim](https://github.com/0x00-sys/Reclaim), a macOS app that finds the gigabytes eaten by git worktrees, build caches and AI coding agents, and gives them back
 - Agents and RAG pipelines, mostly in service of the above
 - A rule I stick to: anything done twice by hand becomes a script before there's a third time. Laziness with follow-through is most of engineering
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0x00-sys&count_private=true&theme=dracula&border_radius=10" height="160" alt="streak" />
-</div>
