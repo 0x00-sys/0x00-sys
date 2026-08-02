@@ -1,7 +1,7 @@
 <h1 align="center">I build support infrastructure for Discord.</h1>
 
 <p align="center">
-  Most of my time goes into <a href="https://ticketcord.net">ticketcord.net</a>
+  Most of my time goes into <a href="https://ticketcord.com">ticketcord.com</a>
 </p>
 
 <div align="center">
