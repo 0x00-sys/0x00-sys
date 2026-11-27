@@ -16,8 +16,8 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="17" y="39" font-size="13" fill="#e6edf3">the go discord library, kept current with discord.</text>
 <text x="17" y="59" font-size="13" fill="#e6edf3">same api, a drop-in replacement.</text>
 <text x="17" y="89" font-size="13" fill="#8b949e">ahead of upstream</text>
-<line x1="155.6" y1="86" x2="311.4" y2="86" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="411" y="89" font-size="13" class="v" fill="#e6edf3" text-anchor="end">many commits</text>
+<line x1="155.6" y1="86" x2="319.2" y2="86" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="411" y="89" font-size="13" class="v" fill="#e6edf3" text-anchor="end">808 commits</text>
 <text x="17" y="111" font-size="13" fill="#8b949e">switching takes</text>
 <line x1="140" y1="108" x2="280.2" y2="108" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="411" y="111" font-size="13" class="v" fill="#e6edf3" text-anchor="end">one replace line</text>
