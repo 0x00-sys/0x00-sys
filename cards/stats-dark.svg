@@ -28,7 +28,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="406" y="160" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">8,978</tspan></text>
 <text x="40" y="182" font-size="13" fill="#e6edf3">runs</text>
 <line x1="77.2" y1="179" x2="275.2" y2="179" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="406" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">114,846</tspan><tspan fill="#3fb950"> 98% done</tspan></text>
+<text x="406" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">114,853</tspan><tspan fill="#3fb950"> 98% done</tspan></text>
 <text x="40" y="204" font-size="13" fill="#e6edf3">most at once</text>
 <line x1="139.6" y1="201" x2="384.4" y2="201" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="406" y="204" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">39</tspan></text>
@@ -37,10 +37,10 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="406" y="226" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">12,518</tspan></text>
 <text x="40" y="248" font-size="13" fill="#e6edf3">hours working</text>
 <line x1="147.39999999999998" y1="245" x2="361" y2="245" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="406" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">6,901</tspan></text>
+<text x="406" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">6,902</tspan></text>
 <text x="40" y="270" font-size="13" fill="#e6edf3">PRs shipped</text>
 <line x1="131.8" y1="267" x2="361" y2="267" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="406" y="270" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">2,796</tspan></text>
+<text x="406" y="270" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">2,798</tspan></text>
 <text x="40" y="292" font-size="13" fill="#e6edf3">lines shipped</text>
 <line x1="147.39999999999998" y1="289" x2="361" y2="289" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="406" y="292" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">+4.4M</tspan></text>
@@ -53,19 +53,19 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="820" y="138" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">59</tspan></text>
 <text x="454" y="160" font-size="13" fill="#e6edf3">PRs opened</text>
 <line x1="538" y1="157" x2="775" y2="157" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="820" y="160" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">2,900</tspan></text>
+<text x="820" y="160" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">2,903</tspan></text>
 <text x="454" y="182" font-size="13" fill="#e6edf3">PRs merged</text>
 <line x1="538" y1="179" x2="743.8" y2="179" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="820" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">2,797</tspan><tspan fill="#3fb950"> 96%</tspan></text>
+<text x="820" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">2,799</tspan><tspan fill="#3fb950"> 96%</tspan></text>
 <text x="454" y="204" font-size="13" fill="#e6edf3">contributed to, past year</text>
 <line x1="655" y1="201" x2="751.6" y2="201" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="820" y="204" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">17 repos</tspan></text>
+<text x="820" y="204" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">18 repos</tspan></text>
 <text x="454" y="226" font-size="13" fill="#e6edf3">longest streak</text>
 <line x1="569.2" y1="223" x2="751.6" y2="223" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="820" y="226" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">175 days</tspan></text>
 <text x="454" y="248" font-size="13" fill="#e6edf3">contributions, all time</text>
 <line x1="639.4" y1="245" x2="767.2" y2="245" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="820" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">12,763</tspan></text>
+<text x="820" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">12,793</tspan></text>
 <text x="454" y="270" font-size="13" fill="#e6edf3">on github since</text>
 <line x1="577" y1="267" x2="782.8" y2="267" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="820" y="270" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">2020</tspan></text>
@@ -80,21 +80,21 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="56" y="358" font-size="13" fill="#e6edf3"><title>claude-opus-4-5, claude-opus-4-6, claude-opus-4-8, claude-opus-4-1, claude-opus-4-7, claude-opus-5-0, claude-opus-5-5, claude-opus-5</title>Opus</text>
 <text x="194" y="358" font-size="11.5" fill="#8b949e" text-anchor="end">today</text>
 <rect x="202" y="349" width="88" height="6" rx="3" fill="#21262d"/>
-<rect x="202" y="349" width="48.029907625224936" height="6" rx="3" fill="#d97757"/>
+<rect x="202" y="349" width="48.03069049735475" height="6" rx="3" fill="#d97757"/>
 <text x="340" y="358" font-size="13" fill="#8b949e" text-anchor="end">54.6%</text>
 <text x="406" y="358" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$481.3k</text>
 <circle cx="44" cy="376" r="4" fill="#10a37f"/>
 <text x="56" y="380" font-size="13" fill="#e6edf3"><title>gpt-5.6-sol, gpt-6.1-sol, gpt-6.2-sol, gpt-6-sol</title>GPT Sol</text>
 <text x="194" y="380" font-size="11.5" fill="#8b949e" text-anchor="end">3d ago</text>
 <rect x="202" y="371" width="88" height="6" rx="3" fill="#21262d"/>
-<rect x="202" y="371" width="18.635986449258787" height="6" rx="3" fill="#10a37f"/>
+<rect x="202" y="371" width="18.635621436482086" height="6" rx="3" fill="#10a37f"/>
 <text x="340" y="380" font-size="13" fill="#8b949e" text-anchor="end">21.2%</text>
 <text x="406" y="380" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$120.9k</text>
 <circle cx="44" cy="398" r="4" fill="#d97757"/>
 <text x="56" y="402" font-size="13" fill="#e6edf3"><title>claude-sonnet-4-0, claude-sonnet-3-7, claude-sonnet-4-5, claude-sonnet-5-5, claude-sonnet-5</title>Sonnet</text>
 <text x="194" y="402" font-size="11.5" fill="#8b949e" text-anchor="end">3d ago</text>
 <rect x="202" y="393" width="88" height="6" rx="3" fill="#21262d"/>
-<rect x="202" y="393" width="19.578929218322155" height="6" rx="3" fill="#d97757"/>
+<rect x="202" y="393" width="19.578545736646085" height="6" rx="3" fill="#d97757"/>
 <text x="340" y="402" font-size="13" fill="#8b949e" text-anchor="end">22.2%</text>
 <text x="406" y="402" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$95.3k</text>
 <circle cx="44" cy="420" r="4" fill="#d97757"/>
@@ -154,7 +154,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <rect x="24" y="508" width="812" height="144" rx="6" fill="none" stroke="#30363d"/>
 <rect x="36" y="500" width="73.6" height="16" fill="#0d1117"/>
 <text x="44" y="512" class="b" font-size="12" fill="#4F8CC9" letter-spacing="0.06em">ACTIVITY</text>
-<rect x="548.8" y="500" width="275.2" height="16" fill="#0d1117"/><text x="816" y="512" font-size="12" fill="#8b949e" text-anchor="end">6,481 contributions in the past year</text>
+<rect x="548.8" y="500" width="275.2" height="16" fill="#0d1117"/><text x="816" y="512" font-size="12" fill="#8b949e" text-anchor="end">6,511 contributions in the past year</text>
 <rect x="76" y="544" width="11" height="11" rx="2" fill="#4F8CC9" opacity="0.5"/>
 <rect x="76" y="558" width="11" height="11" rx="2" fill="#4F8CC9" opacity="0.5"/>
 <rect x="76" y="572" width="11" height="11" rx="2" fill="#4F8CC9" opacity="1"/>
