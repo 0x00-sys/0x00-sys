@@ -28,7 +28,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="406" y="160" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">8,973</tspan></text>
 <text x="40" y="182" font-size="13" fill="#1f2328">runs</text>
 <line x1="77.2" y1="179" x2="275.2" y2="179" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="406" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">114,764</tspan><tspan fill="#1a7f37"> 98% done</tspan></text>
+<text x="406" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">114,769</tspan><tspan fill="#1a7f37"> 98% done</tspan></text>
 <text x="40" y="204" font-size="13" fill="#1f2328">most at once</text>
 <line x1="139.6" y1="201" x2="384.4" y2="201" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="406" y="204" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">39</tspan></text>
@@ -40,7 +40,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="406" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">6,899</tspan></text>
 <text x="40" y="270" font-size="13" fill="#1f2328">PRs shipped</text>
 <line x1="131.8" y1="267" x2="361" y2="267" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="406" y="270" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">2,795</tspan></text>
+<text x="406" y="270" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">2,796</tspan></text>
 <text x="40" y="292" font-size="13" fill="#1f2328">lines shipped</text>
 <line x1="147.39999999999998" y1="289" x2="361" y2="289" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="406" y="292" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">+4.4M</tspan></text>
@@ -53,10 +53,10 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="820" y="138" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">59</tspan></text>
 <text x="454" y="160" font-size="13" fill="#1f2328">PRs opened</text>
 <line x1="538" y1="157" x2="775" y2="157" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="820" y="160" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">2,899</tspan></text>
+<text x="820" y="160" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">2,900</tspan></text>
 <text x="454" y="182" font-size="13" fill="#1f2328">PRs merged</text>
 <line x1="538" y1="179" x2="743.8" y2="179" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="820" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">2,796</tspan><tspan fill="#1a7f37"> 96%</tspan></text>
+<text x="820" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">2,797</tspan><tspan fill="#1a7f37"> 96%</tspan></text>
 <text x="454" y="204" font-size="13" fill="#1f2328">contributed to, past year</text>
 <line x1="655" y1="201" x2="751.6" y2="201" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="820" y="204" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">17 repos</tspan></text>
@@ -65,7 +65,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="820" y="226" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">175 days</tspan></text>
 <text x="454" y="248" font-size="13" fill="#1f2328">contributions, all time</text>
 <line x1="639.4" y1="245" x2="767.2" y2="245" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="820" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">12,731</tspan></text>
+<text x="820" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">12,763</tspan></text>
 <text x="454" y="270" font-size="13" fill="#1f2328">on github since</text>
 <line x1="577" y1="267" x2="782.8" y2="267" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="820" y="270" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">2020</tspan></text>
@@ -80,21 +80,21 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="56" y="358" font-size="13" fill="#1f2328"><title>claude-opus-4-5, claude-opus-4-6, claude-opus-4-8, claude-opus-4-1, claude-opus-4-7, claude-opus-5-0, claude-opus-5-5, claude-opus-5</title>Opus</text>
 <text x="194" y="358" font-size="11.5" fill="#59636e" text-anchor="end">today</text>
 <rect x="202" y="349" width="88" height="6" rx="3" fill="#eaeef2"/>
-<rect x="202" y="349" width="48.00876890006133" height="6" rx="3" fill="#d97757"/>
+<rect x="202" y="349" width="48.00884633396761" height="6" rx="3" fill="#d97757"/>
 <text x="340" y="358" font-size="13" fill="#59636e" text-anchor="end">54.6%</text>
 <text x="406" y="358" font-size="13" class="v" fill="#1f2328" text-anchor="end">$481.1k</text>
 <circle cx="44" cy="376" r="4" fill="#10a37f"/>
 <text x="56" y="380" font-size="13" fill="#1f2328"><title>gpt-5.6-sol, gpt-6.1-sol, gpt-6.2-sol, gpt-6-sol</title>GPT Sol</text>
 <text x="194" y="380" font-size="11.5" fill="#59636e" text-anchor="end">3d ago</text>
 <rect x="202" y="371" width="88" height="6" rx="3" fill="#eaeef2"/>
-<rect x="202" y="371" width="18.645842343311017" height="6" rx="3" fill="#10a37f"/>
+<rect x="202" y="371" width="18.64580623988612" height="6" rx="3" fill="#10a37f"/>
 <text x="340" y="380" font-size="13" fill="#59636e" text-anchor="end">21.2%</text>
 <text x="406" y="380" font-size="13" class="v" fill="#1f2328" text-anchor="end">$120.9k</text>
 <circle cx="44" cy="398" r="4" fill="#d97757"/>
 <text x="56" y="402" font-size="13" fill="#1f2328"><title>claude-sonnet-4-0, claude-sonnet-3-7, claude-sonnet-4-5, claude-sonnet-5-5, claude-sonnet-5</title>Sonnet</text>
 <text x="194" y="402" font-size="11.5" fill="#59636e" text-anchor="end">3d ago</text>
 <rect x="202" y="393" width="88" height="6" rx="3" fill="#eaeef2"/>
-<rect x="202" y="393" width="19.589283800439787" height="6" rx="3" fill="#d97757"/>
+<rect x="202" y="393" width="19.589245870255485" height="6" rx="3" fill="#d97757"/>
 <text x="340" y="402" font-size="13" fill="#59636e" text-anchor="end">22.3%</text>
 <text x="406" y="402" font-size="13" class="v" fill="#1f2328" text-anchor="end">$95.3k</text>
 <circle cx="44" cy="420" r="4" fill="#d97757"/>
@@ -124,23 +124,23 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <circle cx="458" cy="354" r="4" fill="#3178c6"/>
 <text x="470" y="358" font-size="13" fill="#1f2328">TypeScript</text>
 <rect x="604" y="349" width="152" height="6" rx="3" fill="#eaeef2"/>
-<rect x="604" y="349" width="90.68081807420769" height="6" rx="3" fill="#3178c6"/>
-<text x="820" y="358" font-size="13" fill="#59636e" text-anchor="end">59.7%</text>
+<rect x="604" y="349" width="90.64582434103912" height="6" rx="3" fill="#3178c6"/>
+<text x="820" y="358" font-size="13" fill="#59636e" text-anchor="end">59.6%</text>
 <circle cx="458" cy="376" r="4" fill="#00ADD8"/>
 <text x="470" y="380" font-size="13" fill="#1f2328">Go</text>
 <rect x="604" y="371" width="152" height="6" rx="3" fill="#eaeef2"/>
-<rect x="604" y="371" width="46.246757616554014" height="6" rx="3" fill="#00ADD8"/>
+<rect x="604" y="371" width="46.23159050444431" height="6" rx="3" fill="#00ADD8"/>
 <text x="820" y="380" font-size="13" fill="#59636e" text-anchor="end">30.4%</text>
 <circle cx="458" cy="398" r="4" fill="#f34b7d"/>
 <text x="470" y="402" font-size="13" fill="#1f2328">C++</text>
 <rect x="604" y="393" width="152" height="6" rx="3" fill="#eaeef2"/>
-<rect x="604" y="393" width="3.9573907392633227" height="6" rx="3" fill="#f34b7d"/>
+<rect x="604" y="393" width="3.9556170824812096" height="6" rx="3" fill="#f34b7d"/>
 <text x="820" y="402" font-size="13" fill="#59636e" text-anchor="end">2.6%</text>
 <circle cx="458" cy="420" r="4" fill="#f1e05a"/>
 <text x="470" y="424" font-size="13" fill="#1f2328">JavaScript</text>
 <rect x="604" y="415" width="152" height="6" rx="3" fill="#eaeef2"/>
-<rect x="604" y="415" width="3.228573460660741" height="6" rx="3" fill="#f1e05a"/>
-<text x="820" y="424" font-size="13" fill="#59636e" text-anchor="end">2.1%</text>
+<rect x="604" y="415" width="3.2840425829750712" height="6" rx="3" fill="#f1e05a"/>
+<text x="820" y="424" font-size="13" fill="#59636e" text-anchor="end">2.2%</text>
 <circle cx="458" cy="442" r="4" fill="#e34c26"/>
 <text x="470" y="446" font-size="13" fill="#1f2328">HTML</text>
 <rect x="604" y="437" width="152" height="6" rx="3" fill="#eaeef2"/>
@@ -154,7 +154,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <rect x="24" y="508" width="812" height="144" rx="6" fill="none" stroke="#d1d9e0"/>
 <rect x="36" y="500" width="73.6" height="16" fill="#ffffff"/>
 <text x="44" y="512" class="b" font-size="12" fill="#2f6fb0" letter-spacing="0.06em">ACTIVITY</text>
-<rect x="548.8" y="500" width="275.2" height="16" fill="#ffffff"/><text x="816" y="512" font-size="12" fill="#59636e" text-anchor="end">6,449 contributions in the past year</text>
+<rect x="548.8" y="500" width="275.2" height="16" fill="#ffffff"/><text x="816" y="512" font-size="12" fill="#59636e" text-anchor="end">6,481 contributions in the past year</text>
 <rect x="76" y="544" width="11" height="11" rx="2" fill="#2f6fb0" opacity="0.5"/>
 <rect x="76" y="558" width="11" height="11" rx="2" fill="#2f6fb0" opacity="0.5"/>
 <rect x="76" y="572" width="11" height="11" rx="2" fill="#2f6fb0" opacity="1"/>
