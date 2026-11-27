@@ -1,3 +1,9 @@
+<p align="center">
+<picture><source srcset="cards/stats-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/stats-light.svg" alt="Agent and GitHub stats: tokens, sessions, runs, models, languages and contributions"></picture>
+</p>
+
+<br>
+
 <h1 align="center">I build support infrastructure for Discord.</h1>
 
 <p align="center">
