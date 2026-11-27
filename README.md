@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<a href="https://ticketcord.com"><picture><source srcset="cards/tiles/ticketcord-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/tiles/ticketcord-light.svg" alt="ticketcord"></picture></a>
-<a href="https://ticketcord.com/docs/ai/atlas"><picture><source srcset="cards/tiles/atlas-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/tiles/atlas-light.svg" alt="atlas"></picture></a>
+<a href="https://ticketcord.com"><picture><source srcset="cards/tiles/ticketcord-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/tiles/ticketcord-light.svg" width="49%" alt="ticketcord"></picture></a>
+<a href="https://ticketcord.com/docs/ai/atlas"><picture><source srcset="cards/tiles/atlas-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/tiles/atlas-light.svg" width="49%" alt="atlas"></picture></a>
 <br>
-<a href="https://github.com/0x00-sys/discordgo"><picture><source srcset="cards/tiles/discordgo-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/tiles/discordgo-light.svg" alt="discordgo"></picture></a>
-<a href="https://github.com/0x00-sys/Reclaim"><picture><source srcset="cards/tiles/reclaim-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/tiles/reclaim-light.svg" alt="reclaim"></picture></a>
+<a href="https://github.com/0x00-sys/discordgo"><picture><source srcset="cards/tiles/discordgo-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/tiles/discordgo-light.svg" width="49%" alt="discordgo"></picture></a>
+<a href="https://github.com/0x00-sys/Reclaim"><picture><source srcset="cards/tiles/reclaim-dark.svg" media="(prefers-color-scheme: dark)"><img src="cards/tiles/reclaim-light.svg" width="49%" alt="reclaim"></picture></a>
 </p>
 
 <p align="center">
