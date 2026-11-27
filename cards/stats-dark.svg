@@ -21,14 +21,14 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="44" y="116" class="b" font-size="12" fill="#4F8CC9" letter-spacing="0.06em">AGENTS</text>
 <rect x="293.2" y="104" width="116.8" height="16" fill="#0d1117"/><text x="402" y="116" font-size="12" fill="#8b949e" text-anchor="end">since may 2025</text>
 <text x="40" y="138" font-size="13" fill="#e6edf3">tokens</text>
-<line x1="92.8" y1="135" x2="353.2" y2="135" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="406" y="138" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">970.1B</tspan></text>
+<line x1="92.8" y1="135" x2="361" y2="135" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="406" y="138" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">1.09T</tspan></text>
 <text x="40" y="160" font-size="13" fill="#e6edf3">sessions</text>
 <line x1="108.4" y1="157" x2="361" y2="157" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="406" y="160" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">8,969</tspan></text>
 <text x="40" y="182" font-size="13" fill="#e6edf3">runs</text>
 <line x1="77.2" y1="179" x2="275.2" y2="179" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="406" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">114,755</tspan><tspan fill="#3fb950"> 98% done</tspan></text>
+<text x="406" y="182" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">114,756</tspan><tspan fill="#3fb950"> 98% done</tspan></text>
 <text x="40" y="204" font-size="13" fill="#e6edf3">most at once</text>
 <line x1="139.6" y1="201" x2="384.4" y2="201" stroke="#30363d" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="406" y="204" font-size="13" text-anchor="end"><tspan class="v" fill="#e6edf3">39</tspan></text>
@@ -75,48 +75,48 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <rect x="24" y="332" width="398" height="154" rx="6" fill="none" stroke="#30363d"/>
 <rect x="36" y="324" width="59.2" height="16" fill="#0d1117"/>
 <text x="44" y="336" class="b" font-size="12" fill="#4F8CC9" letter-spacing="0.06em">MODELS</text>
-<rect x="206.79999999999998" y="324" width="203.20000000000002" height="16" fill="#0d1117"/><text x="402" y="336" font-size="12" fill="#8b949e" text-anchor="end">3.4M turns · ~$650.7k est.</text>
+<rect x="156.4" y="324" width="253.6" height="16" fill="#0d1117"/><text x="402" y="336" font-size="12" fill="#8b949e" text-anchor="end">% of 1.09T tokens · ~$723.4k est.</text>
 <path transform="translate(44 354)" d="M0 -5.2l1.5 3.1 3.4.5-2.5 2.4.6 3.4L0 2.6l-3 1.6.6-3.4-2.5-2.4 3.4-.5z" fill="#d97757"/>
-<text x="56" y="358" font-size="13" fill="#e6edf3">Opus</text>
+<text x="56" y="358" font-size="13" fill="#e6edf3"><title>claude-opus-4-5, claude-opus-4-6, claude-opus-4-8, claude-opus-4-1, claude-opus-4-7, claude-opus-5-0, claude-opus-5-5, claude-opus-5</title>Opus</text>
 <text x="194" y="358" font-size="11.5" fill="#8b949e" text-anchor="end">today</text>
 <rect x="202" y="349" width="88" height="6" rx="3" fill="#21262d"/>
-<rect x="202" y="349" width="57.209878174480174" height="6" rx="3" fill="#d97757"/>
-<text x="340" y="358" font-size="13" fill="#8b949e" text-anchor="end">65.0%</text>
-<text x="406" y="358" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$502.8k</text>
-<circle cx="44" cy="376" r="4" fill="#d97757"/>
-<text x="56" y="380" font-size="13" fill="#e6edf3">Sonnet</text>
+<rect x="202" y="349" width="48.00804492866019" height="6" rx="3" fill="#d97757"/>
+<text x="340" y="358" font-size="13" fill="#8b949e" text-anchor="end">54.6%</text>
+<text x="406" y="358" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$481.1k</text>
+<circle cx="44" cy="376" r="4" fill="#10a37f"/>
+<text x="56" y="380" font-size="13" fill="#e6edf3"><title>gpt-5.6-sol, gpt-6.1-sol, gpt-6.2-sol, gpt-6-sol</title>GPT Sol</text>
 <text x="194" y="380" font-size="11.5" fill="#8b949e" text-anchor="end">3d ago</text>
 <rect x="202" y="371" width="88" height="6" rx="3" fill="#21262d"/>
-<rect x="202" y="371" width="22.004018364111804" height="6" rx="3" fill="#d97757"/>
-<text x="340" y="380" font-size="13" fill="#8b949e" text-anchor="end">25.0%</text>
-<text x="406" y="380" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$95.2k</text>
-<circle cx="44" cy="398" r="4" fill="#10a37f"/>
-<text x="56" y="402" font-size="13" fill="#e6edf3">GPT Sol</text>
+<rect x="202" y="371" width="18.646279608816318" height="6" rx="3" fill="#10a37f"/>
+<text x="340" y="380" font-size="13" fill="#8b949e" text-anchor="end">21.2%</text>
+<text x="406" y="380" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$120.9k</text>
+<circle cx="44" cy="398" r="4" fill="#d97757"/>
+<text x="56" y="402" font-size="13" fill="#e6edf3"><title>claude-sonnet-4-0, claude-sonnet-3-7, claude-sonnet-4-5, claude-sonnet-5-5, claude-sonnet-5</title>Sonnet</text>
 <text x="194" y="402" font-size="11.5" fill="#8b949e" text-anchor="end">3d ago</text>
 <rect x="202" y="393" width="88" height="6" rx="3" fill="#21262d"/>
-<rect x="202" y="393" width="7.8715054271769365" height="6" rx="3" fill="#10a37f"/>
-<text x="340" y="402" font-size="13" fill="#8b949e" text-anchor="end">8.9%</text>
-<text x="406" y="402" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$44.1k</text>
-<circle cx="44" cy="420" r="4" fill="#10a37f"/>
-<text x="56" y="424" font-size="13" fill="#e6edf3">GPT Astra</text>
-<text x="194" y="424" font-size="11.5" fill="#8b949e" text-anchor="end">5d ago</text>
+<rect x="202" y="393" width="19.589743190684633" height="6" rx="3" fill="#d97757"/>
+<text x="340" y="402" font-size="13" fill="#8b949e" text-anchor="end">22.3%</text>
+<text x="406" y="402" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$95.3k</text>
+<circle cx="44" cy="420" r="4" fill="#d97757"/>
+<text x="56" y="424" font-size="13" fill="#e6edf3"><title>claude-fable-5-1, claude-fable-5-2</title>Fable</text>
+<text x="194" y="424" font-size="11.5" fill="#8b949e" text-anchor="end">3d ago</text>
 <rect x="202" y="415" width="88" height="6" rx="3" fill="#21262d"/>
-<rect x="202" y="415" width="3" height="6" rx="3" fill="#10a37f"/>
-<text x="340" y="424" font-size="13" fill="#8b949e" text-anchor="end">0.5%</text>
-<text x="406" y="424" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$6.3k</text>
-<circle cx="44" cy="442" r="4" fill="#d97757"/>
-<text x="56" y="446" font-size="13" fill="#e6edf3">Fable</text>
-<text x="194" y="446" font-size="11.5" fill="#8b949e" text-anchor="end">3d ago</text>
+<rect x="202" y="415" width="3" height="6" rx="3" fill="#d97757"/>
+<text x="340" y="424" font-size="13" fill="#8b949e" text-anchor="end">1.1%</text>
+<text x="406" y="424" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$18.3k</text>
+<circle cx="44" cy="442" r="4" fill="#10a37f"/>
+<text x="56" y="446" font-size="13" fill="#e6edf3"><title>gpt-6-astra, gpt-6.2-astra</title>GPT Astra</text>
+<text x="194" y="446" font-size="11.5" fill="#8b949e" text-anchor="end">5d ago</text>
 <rect x="202" y="437" width="88" height="6" rx="3" fill="#21262d"/>
-<rect x="202" y="437" width="3" height="6" rx="3" fill="#d97757"/>
-<text x="340" y="446" font-size="13" fill="#8b949e" text-anchor="end">0.3%</text>
-<text x="406" y="446" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$1.8k</text>
+<rect x="202" y="437" width="3" height="6" rx="3" fill="#10a37f"/>
+<text x="340" y="446" font-size="13" fill="#8b949e" text-anchor="end">0.5%</text>
+<text x="406" y="446" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$6.8k</text>
 <circle cx="44" cy="464" r="4" fill="#8b949e"/>
-<text x="56" y="468" font-size="13" fill="#e6edf3">3 others</text>
+<text x="56" y="468" font-size="13" fill="#e6edf3"><title>GPT, GPT Terra, GPT Luna, Grok, Haiku, Kimi, GPT Mini, Codex, Unknown, Minimax</title>10 others</text>
 <rect x="202" y="459" width="88" height="6" rx="3" fill="#21262d"/>
 <rect x="202" y="459" width="3" height="6" rx="3" fill="#8b949e"/>
-<text x="340" y="468" font-size="13" fill="#8b949e" text-anchor="end">0.2%</text>
-<text x="406" y="468" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$466</text>
+<text x="340" y="468" font-size="13" fill="#8b949e" text-anchor="end">0.4%</text>
+<text x="406" y="468" font-size="13" class="v" fill="#e6edf3" text-anchor="end">$866</text>
 <rect x="438" y="332" width="398" height="154" rx="6" fill="none" stroke="#30363d"/>
 <rect x="450" y="324" width="80.8" height="16" fill="#0d1117"/>
 <text x="458" y="336" class="b" font-size="12" fill="#4F8CC9" letter-spacing="0.06em">LANGUAGES</text>
