@@ -4,33 +4,18 @@
 
 <br>
 
-<h1 align="center">I build support infrastructure for Discord.</h1>
+<p align="center">I build support infrastructure for Discord.</p>
+<p align="center"><a href="https://ticketcord.com">ticketcord.com</a> · <a href="https://ticketcord.com/docs">docs</a> · <a href="https://github.com/0x00-sys/discordgo">discordgo fork</a></p>
 
-<p align="center">
-  Most of my time goes into <a href="https://ticketcord.com">ticketcord.com</a>
-</p>
+### Highlights
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,nextjs,react,nodejs,python,swift,rust,tailwind,mongodb,redis,docker,bash,git" height="50" alt="stack" />
-</div>
+- **[TicketCord](https://ticketcord.com)**: the support platform for Discord. 10k+ bots and 500k+ tickets so far. TypeScript on the web, Go where it matters: one bot manager runs every bot, lock-free where it can be, with an event bus doing the heavy lifting.
+- **Atlas**: TicketCord's AI assistant. It answers members from a server's own knowledge, drafts replies for staff, translates both ways and learns from solved tickets. It acts on the real ticket instead of guessing.
+- **Website widget**: a support chat for your own site where every conversation is a normal ticket in your Discord server.
+- **[discordgo](https://github.com/0x00-sys/discordgo)**: my fork of the Go Discord bindings. Upstream is fine for one bot, less so for thousands in one process. Mine fixes the bugs I kept hitting and trims the hot paths, and it runs TicketCord's whole bot layer.
+- **[Reclaim](https://github.com/0x00-sys/Reclaim)**: a macOS app that finds the gigabytes eaten by git worktrees, build caches and AI coding agents, and gives them back.
+- **The card up top**: every machine I work on (a Mac, a Windows PC and its WSL) feeds one ledger every hour. Numbers only ever go up, even when a tool deletes its own history.
 
----
+<br>
 
-### TicketCord
-
-Support platform for Discord, tens of thousands of bots in production. TypeScript on the web side, Go where it matters. The parts I actually enjoy working on:
-
-- Atlas, the in-app assistant. Function calling with ticket context, so it acts on real state instead of guessing
-- Knowledge base crawler feeding Qdrant, RAG replies served directly by the bots
-- The bot manager in Go. Lock-free where possible, `sync.Map` and an event bus doing the heavy lifting. Boring and fast, the way infra should be
-- 12 languages on the web, 19 in the bots. Doing i18n late is a mistake you make once
-
-### discordgo fork
-
-I maintain [my own fork](https://github.com/0x00-sys/discordgo) of the Go Discord bindings. Upstream is fine for one bot, less fine for tens of thousands. Mine fixes the bugs I kept hitting and trims the hot paths. It runs TicketCord's entire bot layer, so it gets battle tested daily whether I like it or not.
-
-### Other things
-
-- [Reclaim](https://github.com/0x00-sys/Reclaim), a macOS app that finds the gigabytes eaten by git worktrees, build caches and AI coding agents, and gives them back
-- Agents and RAG pipelines, mostly in service of the above
-- A rule I stick to: anything done twice by hand becomes a script before there's a third time. Laziness with follow-through is most of engineering
+<p align="center"><sub>Anything done twice by hand becomes a script before the third time. Laziness with follow-through is most of engineering.</sub></p>
