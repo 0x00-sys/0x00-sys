@@ -80,21 +80,21 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="56" y="358" font-size="13" fill="#1f2328"><title>claude-opus-4-5, claude-opus-4-6, claude-opus-4-8, claude-opus-4-1, claude-opus-4-7, claude-opus-5-0, claude-opus-5-5, claude-opus-5</title>Opus</text>
 <text x="194" y="358" font-size="11.5" fill="#59636e" text-anchor="end">today</text>
 <rect x="202" y="349" width="88" height="6" rx="3" fill="#eaeef2"/>
-<rect x="202" y="349" width="48.00804492866019" height="6" rx="3" fill="#d97757"/>
+<rect x="202" y="349" width="48.00806881891663" height="6" rx="3" fill="#d97757"/>
 <text x="340" y="358" font-size="13" fill="#59636e" text-anchor="end">54.6%</text>
 <text x="406" y="358" font-size="13" class="v" fill="#1f2328" text-anchor="end">$481.1k</text>
 <circle cx="44" cy="376" r="4" fill="#10a37f"/>
 <text x="56" y="380" font-size="13" fill="#1f2328"><title>gpt-5.6-sol, gpt-6.1-sol, gpt-6.2-sol, gpt-6-sol</title>GPT Sol</text>
 <text x="194" y="380" font-size="11.5" fill="#59636e" text-anchor="end">3d ago</text>
 <rect x="202" y="371" width="88" height="6" rx="3" fill="#eaeef2"/>
-<rect x="202" y="371" width="18.646279608816318" height="6" rx="3" fill="#10a37f"/>
+<rect x="202" y="371" width="18.646268469966003" height="6" rx="3" fill="#10a37f"/>
 <text x="340" y="380" font-size="13" fill="#59636e" text-anchor="end">21.2%</text>
 <text x="406" y="380" font-size="13" class="v" fill="#1f2328" text-anchor="end">$120.9k</text>
 <circle cx="44" cy="398" r="4" fill="#d97757"/>
 <text x="56" y="402" font-size="13" fill="#1f2328"><title>claude-sonnet-4-0, claude-sonnet-3-7, claude-sonnet-4-5, claude-sonnet-5-5, claude-sonnet-5</title>Sonnet</text>
 <text x="194" y="402" font-size="11.5" fill="#59636e" text-anchor="end">3d ago</text>
 <rect x="202" y="393" width="88" height="6" rx="3" fill="#eaeef2"/>
-<rect x="202" y="393" width="19.589743190684633" height="6" rx="3" fill="#d97757"/>
+<rect x="202" y="393" width="19.58973148823129" height="6" rx="3" fill="#d97757"/>
 <text x="340" y="402" font-size="13" fill="#59636e" text-anchor="end">22.3%</text>
 <text x="406" y="402" font-size="13" class="v" fill="#1f2328" text-anchor="end">$95.3k</text>
 <circle cx="44" cy="420" r="4" fill="#d97757"/>
