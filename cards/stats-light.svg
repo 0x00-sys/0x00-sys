@@ -65,7 +65,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <text x="820" y="226" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">175 days</tspan></text>
 <text x="454" y="248" font-size="13" fill="#1f2328">contributions, all time</text>
 <line x1="639.4" y1="245" x2="767.2" y2="245" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
-<text x="820" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">12,793</tspan></text>
+<text x="820" y="248" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">12,808</tspan></text>
 <text x="454" y="270" font-size="13" fill="#1f2328">on github since</text>
 <line x1="577" y1="267" x2="782.8" y2="267" stroke="#d1d9e0" stroke-dasharray="1 4" stroke-linecap="round"/>
 <text x="820" y="270" font-size="13" text-anchor="end"><tspan class="v" fill="#1f2328">2020</tspan></text>
@@ -124,22 +124,22 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <circle cx="458" cy="354" r="4" fill="#3178c6"/>
 <text x="470" y="358" font-size="13" fill="#1f2328">TypeScript</text>
 <rect x="604" y="349" width="152" height="6" rx="3" fill="#eaeef2"/>
-<rect x="604" y="349" width="90.64582434103912" height="6" rx="3" fill="#3178c6"/>
-<text x="820" y="358" font-size="13" fill="#59636e" text-anchor="end">59.6%</text>
+<rect x="604" y="349" width="90.75299450695226" height="6" rx="3" fill="#3178c6"/>
+<text x="820" y="358" font-size="13" fill="#59636e" text-anchor="end">59.7%</text>
 <circle cx="458" cy="376" r="4" fill="#00ADD8"/>
 <text x="470" y="380" font-size="13" fill="#1f2328">Go</text>
 <rect x="604" y="371" width="152" height="6" rx="3" fill="#eaeef2"/>
-<rect x="604" y="371" width="46.23159050444431" height="6" rx="3" fill="#00ADD8"/>
+<rect x="604" y="371" width="46.158799308589046" height="6" rx="3" fill="#00ADD8"/>
 <text x="820" y="380" font-size="13" fill="#59636e" text-anchor="end">30.4%</text>
 <circle cx="458" cy="398" r="4" fill="#f34b7d"/>
 <text x="470" y="402" font-size="13" fill="#1f2328">C++</text>
 <rect x="604" y="393" width="152" height="6" rx="3" fill="#eaeef2"/>
-<rect x="604" y="393" width="3.9556170824812096" height="6" rx="3" fill="#f34b7d"/>
+<rect x="604" y="393" width="3.946479023131285" height="6" rx="3" fill="#f34b7d"/>
 <text x="820" y="402" font-size="13" fill="#59636e" text-anchor="end">2.6%</text>
 <circle cx="458" cy="420" r="4" fill="#f1e05a"/>
 <text x="470" y="424" font-size="13" fill="#1f2328">JavaScript</text>
 <rect x="604" y="415" width="152" height="6" rx="3" fill="#eaeef2"/>
-<rect x="604" y="415" width="3.2840425829750712" height="6" rx="3" fill="#f1e05a"/>
+<rect x="604" y="415" width="3.27672849890171" height="6" rx="3" fill="#f1e05a"/>
 <text x="820" y="424" font-size="13" fill="#59636e" text-anchor="end">2.2%</text>
 <circle cx="458" cy="442" r="4" fill="#e34c26"/>
 <text x="470" y="446" font-size="13" fill="#1f2328">HTML</text>
@@ -154,7 +154,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <rect x="24" y="508" width="812" height="144" rx="6" fill="none" stroke="#d1d9e0"/>
 <rect x="36" y="500" width="73.6" height="16" fill="#ffffff"/>
 <text x="44" y="512" class="b" font-size="12" fill="#2f6fb0" letter-spacing="0.06em">ACTIVITY</text>
-<rect x="548.8" y="500" width="275.2" height="16" fill="#ffffff"/><text x="816" y="512" font-size="12" fill="#59636e" text-anchor="end">6,511 contributions in the past year</text>
+<rect x="548.8" y="500" width="275.2" height="16" fill="#ffffff"/><text x="816" y="512" font-size="12" fill="#59636e" text-anchor="end">6,526 contributions in the past year</text>
 <rect x="76" y="544" width="11" height="11" rx="2" fill="#2f6fb0" opacity="0.5"/>
 <rect x="76" y="558" width="11" height="11" rx="2" fill="#2f6fb0" opacity="0.5"/>
 <rect x="76" y="572" width="11" height="11" rx="2" fill="#2f6fb0" opacity="1"/>
@@ -537,6 +537,7 @@ text { font-family: "JBM", ui-monospace, SFMono-Regular, Menlo, monospace; }
 <rect x="804" y="586" width="11" height="11" rx="2" fill="#2f6fb0" opacity="1"/>
 <rect x="804" y="600" width="11" height="11" rx="2" fill="#2f6fb0" opacity="1"/>
 <rect x="804" y="614" width="11" height="11" rx="2" fill="#2f6fb0" opacity="1"/>
+<rect x="804" y="628" width="11" height="11" rx="2" fill="#2f6fb0" opacity="0.28"/>
 <text x="40" y="567" font-size="11" fill="#59636e">Mon</text>
 <text x="40" y="595" font-size="11" fill="#59636e">Wed</text>
 <text x="40" y="623" font-size="11" fill="#59636e">Fri</text>
